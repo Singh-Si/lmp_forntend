@@ -1,0 +1,349 @@
+/* For Mobile */
+
+@media only screen and (max-width: 600px) {
+    .offers .col-lg-3.col-md-6.col-sm-6.col-xs-12 {
+        width: 50%;
+    }
+
+    .form-control.PhoneInput {
+        margin-bottom: 20px;
+    }
+
+    .offcanvas .navbar-nav {
+        align-items: flex-start;
+    }
+
+    h3.text-white.adsver {
+        font-size: 30px;
+    }
+
+    span.text-custom-white.fs-14.mr-3 {
+        line-height: 40px;
+    }
+
+    .owl-carousel.img_abcds.desktop.owl-loaded.owl-drag {
+        display: none;
+    }
+
+    .owl-carousel.img_abcds.mobile.owl-loaded.owl-drag {
+        display: block !important;
+    }
+
+    .offers img {
+        margin-bottom: 30px;
+    }
+
+    .row.form_abcd1 .button-group-pills .btn {
+        width: 100% !important;
+    }
+
+    .col-lg-4.col-md-4.col-sm-4.col-xs-6.radiohide {
+        width: 50%;
+    }
+
+    .voice_abcd {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    button.owl-prev span {
+        font-size: 50px;
+        color: #ffffff;
+    }
+
+    button.owl-next span {
+        font-size: 50px;
+        color: #ffffff;
+    }
+
+    .container.knowmore h3 {
+        font-size: 25px;
+    }
+
+    img.knowmoreimg {
+        display: none;
+    }
+
+    button.owl-next {
+        position: absolute;
+        right: 45%;
+        top: auto;
+    }
+
+    button.owl-prev {
+        position: absolute;
+        left: 40%;
+        top: auto;
+    }
+
+    .reachus_contact span {
+        font-size: 15px;
+    }
+
+    ul.menu.menu--jdv-menu.nav li {
+        width: 100%;
+    }
+
+    .offcanvas {
+        max-width: 100%;
+    }
+
+    a.nav-link {
+        margin-top: 8px;
+    }
+
+    button.btn-first.btn-submit-fill.logins {
+        margin-top: 8px;
+    }
+
+    .col-lg-6.radiohide {
+        width: 50%;
+    }
+
+    .col-lg-5.col-md-12.col-sm-12.col-xs-12 {
+        margin-top: 30px;
+    }
+
+    .col-lg-5.col-md-12.col-sm-12.col-xs-12 {
+        margin-bottom: 10px !important;
+    }
+
+    .col-lg-5.col-md-6.col-sm-6.col-xs-12 {
+        margin-top: 30px;
+    }
+
+    .col-lg-5.col-md-12.col-sm-12.col-xs-12.buttons {
+        margin-bottom: 20px !important;
+        width: 50%;
+        margin-top: 40px !important;
+    }
+
+    a.buttonactions {
+        padding: 10px 30px;
+    }
+
+    .car_details_all {
+        margin-bottom: 30px;
+        background: #F5F8FF;
+        text-align: center;
+        padding: 10px 0px;
+    }
+
+    table.comparisions.table.table-lg.table-striped {
+        overflow-x: scroll;
+        display: block;
+    }
+
+    .container-fluid.quotes_filters.pt-5.pb-5 {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .login {
+        height: auto !important;
+    }
+
+    .col-lg-6.form_abcds {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
+
+    table.quote_table.mt-3.table.table-striped.table-bordered.table-hover {
+        width: 100%;
+        display: block;
+        overflow-x: scroll;
+    }
+
+    .col-lg-6.col-md-12.col-sm-12.col-xs-12.buttons.mt-3.mb-3 {
+        width: 50%;
+    }
+
+    a.buttonactions {
+        font-size: 14px;
+    }
+
+    i.fa.fa-chevron-left {
+        font-size: 12px;
+    }
+
+    i.fa.fa-chevron-right {
+        font-size: 12px;
+    }
+
+    .row.form_abcd .button-group-pills .btn {
+        font-size: 14px;
+    }
+
+    .row.form_abcd ul {
+        padding-left: 20px;
+    }
+
+    .row.form_abcd ul li {
+        font-size: 14px;
+    }
+
+    .testimonial-block .inner-box {
+        padding: 70px 0px 0px;
+    }
+
+    .container-fluid.car_info h5 {
+        font-size: 15px;
+    }
+
+    ul.drivingexp {
+        padding-left: 30px !important;
+    }
+
+    .container.Quotes_info.pt-4.pb-4 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .col-lg-7.col-md-6.col-sm-6.col-xs-6 {
+        width: 45%;
+    }
+
+    .col-lg-7.col-md-6.col-sm-6.col-xs-6.margin_bottom {
+        width: 45%;
+    }
+
+    .col-lg-5.col-md-6.col-sm-6.col-xs-6.margin_bottom {
+        width: 55%;
+    }
+
+    .col-lg-5.col-md-6.col-sm-6.col-xs-6 {
+        width: 55%;
+    }
+
+    .row.quotes_selectoption .col {
+        width: 33% !important;
+        flex: auto;
+    }
+
+    .row.quotes_all p {
+        font-size: 14px;
+        line-height: 1.6;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .col-lg-3.quotesmobile {
+        width: 50%;
+        order: 1;
+    }
+
+    .col-lg-6.quotemobile {
+        width: 100%;
+        order: 2;
+        margin-top: 20px;
+    }
+
+    .pay_Details p {
+        font-size: 13px;
+    }
+
+    a.buttonactions1 {
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+
+    .col-lg-7.col-sm-6.col-md-12.col-xs-12.mb-4 {
+        width: 60%;
+    }
+
+    .col-lg-5.col-sm-6.col-md-12.col-xs-12.mb-4 {
+        width: 40%;
+    }
+
+    .pay_Details1 .col-lg-6.col-sm-6.col-md-12.col-xs-12 {
+        width: 50%;
+    }
+
+    .pay_Details {
+        padding: 20px 5px;
+    }
+
+    .col-lg-6.col-md-12.col-sm-12.col-xs-12.buttons.mt-3.mb-3.paymentsss {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .row.quotes_details h2 {
+        font-size: 15px;
+    }
+
+    .container.quotes_filters.hide.pt-4.pb-4 {
+        padding: 0px;
+    }
+
+    .selectedSpecification.col-lg-3 {
+        margin-bottom: 10px;
+    }
+
+    .col-lg-3.action_abcd {
+        width: 50%;
+        order: 1;
+    }
+
+    .container.Quotes_info1212.pt-4.pb-4 {
+        padding: 0px;
+    }
+
+    div#offcanvasNavbar-expand-xl {
+        max-width: 75%;
+    }
+
+    .row.quotes_selectoption.filters .row {
+        margin-left: -5px;
+        margin-right: -5px;
+    }
+
+    .Quotes_info .col-lg-8.col-md-12.col-sm-12.col-xs-12 {
+        padding: 0px;
+    }
+
+    .row.quotes_details {
+        padding: 15px 0px 10px;
+    }
+
+    .row.quotes_selectoption {
+        margin-left: -5px;
+        margin-right: -5px;
+    }
+
+    .row.quotes_all.home_fil {
+        padding: 0px;
+    }
+
+    button.buttonactions {
+        font-size: 14px;
+        padding: 8px 30px;
+    }
+
+    input.textancd.col-lg-3.col-md-12.col-sm-12.col-xs-12 {
+        margin-right: 17px;
+    }
+
+    button.button_next {
+        padding: 8px 30px;
+        font-size: 14px;
+    }
+}
+
+
+/* For tablets: */
+
+@media (max-width:960px) {
+    .offcanvas .navbar-nav {
+        align-items: flex-start;
+    }
+}
+
+/* @media only screen and (min-width: 768px) {
+
+    .offcanvas .navbar-nav {
+        align-items: flex-start;
+    }
+
+} */

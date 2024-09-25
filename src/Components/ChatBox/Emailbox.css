@@ -1,0 +1,36 @@
+.message-body {
+    border: 2px;
+    border-radius: 13px;
+    margin-bottom: 7px;
+    transition: border 0.3s;
+    color: black;
+    background-color: #E8ECEF;
+    font-size: 11px;
+    width: 75%;
+    padding: 8px 12px;
+}
+
+.message-body .chaport-email-request-input {
+    background-color: transparent;
+    opacity: 1;
+    border-color: transparent !important;
+}
+
+input .chaport-email-request-input :active {
+    border: 2px solid transparent;
+    /* Make the border color transparent */
+}
+
+.message-body .chaport-email-request-label {
+    padding: 27px 3px;
+    margin-bottom: 15px;
+}
+
+.message-body .chaport-email-request-input-wrapper {
+    padding-top: 16px;
+    padding-bottom: -6px;
+}
+
+.email-request-edit-button {
+    color: rgb(173, 167, 167);
+}

@@ -1,0 +1,7 @@
+node_modules
+.env
+yarn
+build
+# checking whther its working or not
+
+#now doing changes here in mian to check whether it works or not.

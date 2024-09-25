@@ -1,0 +1,21 @@
+.notification-label {
+    position: absolute;
+    top: -20px;
+    left: -10px;
+}
+
+.notification-label {
+    border-radius: 25%;
+    width: 34px;
+    height: 30px;
+    line-height: 29px;
+    color: #fff;
+    justify-content: center;
+    font-size: 1.2rem;
+    animation: bounceIn 700ms;
+    display: flex;
+}
+
+.notification-label.notification-label-red {
+    background: #c62828;
+}
